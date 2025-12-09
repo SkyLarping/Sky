@@ -3,10 +3,7 @@
 ---
 <h1 align="center"> Sky 🖥️ </h1>
 <h3 align="center">A passionate Python, Rust, C/C++, and Bash programmer</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="coding gif" />
-</p>
+<h3 align="center"><img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="coding gif" /></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=600&lines=Rust+Programming;System+Programming+C%2FC++;Linux+Kernel+Exploration;Shell+Automation" />
@@ -14,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Programming Languages
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
