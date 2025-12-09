@@ -4,6 +4,7 @@
 <h1 align="center"> Sky 🖥️ </h1>
 <h3 align="center">Python, Rust, C/C++, and Bash programmer</h3>
 <h3 align="center"><img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="coding gif" /></h3>
+
 ---
 
 ### 🛠️ Programming Languages
