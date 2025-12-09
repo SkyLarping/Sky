@@ -23,20 +23,11 @@
 
 ---
 
-### 🌱 Currently Learning & Exploring
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=600&lines=Advanced+Rust;System+Programming+C%2FC++;Linux+Kernel+Exploration;Shell+Automation" />
 </p>
 
 ---
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyLarping&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLarping&layout=compact&theme=radical" width="49%" />
-</p>
 
 ---
 
@@ -51,5 +42,5 @@
 
 ### ⚡ Fun Fact
 <p align="center">
-  I love exploring new Linux distributions and building tools that make life easier on the command line. 🐧
+  I'm addicted to distro hopping 💀
 </p>
