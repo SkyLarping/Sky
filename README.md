@@ -1,4 +1,6 @@
 <!-- ================= Header ================= -->
+### About Me ℹ️
+---
 <h1 align="center"> Sky 🖥️ </h1>
 <h3 align="center">A passionate Python, Rust, C/C++, and Bash programmer | Linux enthusiast 🐧</h3>
 
@@ -16,10 +18,19 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ Currently Used Distributions and Kernel
+
+<p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=600&lines=Rust+Programming;System+Programming+C%2FC++;Linux+Kernel+Exploration;Shell+Automation" />
