@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=600&lines=Advanced+Rust;System+Programming+C%2FC++;Linux+Kernel+Exploration;Shell+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=600&lines=Rust+Programming;System+Programming+C%2FC++;Linux+Kernel+Exploration;Shell+Automation" />
 </p>
 
 ---
